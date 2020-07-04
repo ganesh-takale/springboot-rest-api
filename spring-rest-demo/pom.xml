@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>spring-rest-demo</name>
-	<description>Demo project for Spring Boot REST API</description>
+	<description>Demo project for Spring Boot REST API's</description>
 
 	<properties>
 		<java.version>1.8</java.version>
